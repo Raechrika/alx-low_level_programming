@@ -1,8 +1,7 @@
-#include <stdio.h>
 #include <unistd.h>
 
 /**
-* mai n- Entry point
+* main - Entry point
 *
 * Return: Always 1 (success).
 */
