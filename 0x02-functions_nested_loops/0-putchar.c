@@ -1,8 +1,9 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
 main-print_putchar
 */
-int main() {
+int main()
+{
 putchar('_');
 putchar('p');
 putchar('u');
