@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
-main-print_putchar
+*main-print_putchar
 */
-int main()
+int main(void)
 {
 putchar('_');
 putchar('p');
@@ -13,5 +13,5 @@ putchar('h');
 putchar('a');
 putchar('r');
 putchar('\n');
-return 0;
+return(0);
 }
